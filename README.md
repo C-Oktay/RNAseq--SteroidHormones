@@ -28,3 +28,6 @@ Treatments analyzed include:
 - Pandas
 - Matplotlib
 - Seaborn
+
+Raw data files are not included in this repository.
+The notebook is provided to demonstrate the analysis workflow.
