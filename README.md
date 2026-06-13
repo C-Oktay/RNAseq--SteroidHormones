@@ -32,4 +32,5 @@ Treatments analyzed include:
 Raw data files are not included in this repository.
 The notebook is provided to demonstrate the analysis workflow.
 
-[DMSO v DHEA_scatterplot.tiff](https://github.com/user-attachments/files/28913727/DMSO.v.DHEA_scatterplot.tiff)
+<img width="1000" height="1000" alt="DMSO v DHEA_scatterplot" src="https://github.com/user-attachments/assets/49c5dd14-2de7-4f65-833f-ddf90a5c8e3d" />
+
